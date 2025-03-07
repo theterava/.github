@@ -1,4 +1,4 @@
-# Terava Organization
+# Terava Social Media App
 
 **Terava** is a forward-thinking social media platform focused on seamless communication, content sharing, and community engagement. Our goal is to redefine digital interactions through innovation, privacy, and user-centric design.
 
